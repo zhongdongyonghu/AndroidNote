@@ -1,7 +1,9 @@
-package com.zdyh.androidnote;
+package com.boxuegu.Activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.boxuegu.R;
 
 public class MainActivity extends AppCompatActivity {
 
